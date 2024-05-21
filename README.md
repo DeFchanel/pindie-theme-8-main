@@ -1,1 +1,1 @@
-Мой бэкенд: https://pindiesfront.nomoredomainswork.ru/
+Мой бэкенд: https://pindies.nomoredomainswork.ru
